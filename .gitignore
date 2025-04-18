@@ -1,2 +1,6 @@
 ﻿darkmark_image_cache
 *output.mp4
+video_import_*
+chart.png
+chart_*.png
+get_results_from_gpu_rig.sh

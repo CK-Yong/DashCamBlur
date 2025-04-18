@@ -1,0 +1,5 @@
+classes = 2
+train = /home/ckyong/Development/LicensePlates/LicensePlates_train.txt
+valid = /home/ckyong/Development/LicensePlates/LicensePlates_valid.txt
+names = /home/ckyong/Development/LicensePlates/LicensePlates.names
+backup = /home/ckyong/Development/LicensePlates
